@@ -1,0 +1,31 @@
+{
+    "token": "NzQxMTIzNzgwMTUxMzQ1MTc0.GrF8M-.05aPJj5v-izRdIBw7Mix4T5rGUi9ZB3HS5s12g",
+    "channel": "1096428634727780373",
+    "gm": true,
+    "sm": false,
+    "pm": true,
+    "em": {
+        "text": false,
+        "owo": false
+    },
+    "webhook": {
+        "link": null,
+        "ping": null
+    },
+    "sbcommands": {
+        "enable": false,
+        "prefix": ".",
+        "allowedid": null
+    },
+    "daily": false,
+    "stop": false,
+    "sell": {
+        "enable": false,
+        "types": "all"
+    },
+    "solve": {
+        "enable": false,
+        "server": 1
+    },
+    "change": false
+}
